@@ -67,3 +67,9 @@ So, the Jaccard similarity coefficient between sets A and B is approximately 0.3
 8. Refining Similarity Measurement: Modifying the similarity measure to retrieve better or more relevant documents.
 9. Model Selection: Experimenting with different models, such as Anthropic or Claude Models, in place of Llama2.
 10. Prompt Variation: Using diverse prompts tailored to the desired output from the LLM/Model.
+
+---
+
+## Output 
+
+![RAG](output.png)
